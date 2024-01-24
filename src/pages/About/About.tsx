@@ -16,7 +16,7 @@ const About = () => {
             <IonImg
               draggable={false}
               className={`${cssPrefix}-logo`}
-              src='/src/assets/logos/logo-transparent.png'
+              src='/assets/logos/logo-transparent.png'
             />
           </div>
           <div className={`${cssPrefix}-contact-container`}>

@@ -86,31 +86,31 @@
       "id": 1,
       "name": "نوشابه",
       "price": "1000",
-      "image": "src/assets/images/coca.png"
+      "image": "/assets/images/coca.png"
     },
     {
       "id": 2,
       "name": "دلستر",
       "price": "1000",
-      "image": "src/assets/images/soda.png"
+      "image": "/assets/images/soda.png"
     },
     {
       "id": 3,
       "name": "هایپ",
       "price": "1000",
-      "image": "src/assets/images/hype.png"
+      "image": "/assets/images/hype.png"
     },
     {
       "id": 4,
       "name": "رانی",
       "price": "1000",
-      "image": "src/assets/images/rani.png"
+      "image": "/assets/images/rani.png"
     },
     {
       "id": 5,
       "name": "آب معدنی",
       "price": "1000",
-      "image": "src/assets/images/water.webp"
+      "image": "/assets/images/water.webp"
     }
   ]
 }

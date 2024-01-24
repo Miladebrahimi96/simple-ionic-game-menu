@@ -11,7 +11,7 @@ const Header = () => {
           <IonBackButton></IonBackButton>
         </IonButtons>
         <IonImg
-          src="/src/assets/logos/logo-transparent.png"
+          src="/assets/logos/logo-transparent.png"
           className={`${cssPrefix}-avatar`}
           slot='end'
           alt=''
