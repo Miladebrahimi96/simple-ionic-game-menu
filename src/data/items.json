@@ -1,0 +1,116 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "PS5 | استادیوم سانتیاگو برنابئو",
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "name": "PS5 | استادیوم نیوکمپ ",
+      "price": "1000"
+    },
+    {
+      "id": 3,
+      "name": "ایر هاکی",
+      "price": "1000"
+    },
+    {
+      "id": 4,
+      "name": "فوتبال دستی"
+    }
+  ],
+  "snacks": [
+    {
+      "id": 1,
+      "name": "اسنک",
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "name": "سیب زمینی ساده",
+      "price": "1000"
+    },
+    {
+      "id": 3,
+      "name": "سیب زمینی مخصوص",
+      "price": "1000"
+    }
+  ],
+  "warm_bars": [
+    {
+      "id": 1,
+      "name": "چای",
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "name": "نسکافه",
+      "price": "1000"
+    },
+    {
+      "id": 3,
+      "name": "هات چاکلت",
+      "price": "1000"
+    }
+  ],
+  "cold_bars": [
+    {
+      "id": 1,
+      "name": "شیرموز",
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "name": "شیک",
+      "price": "1000"
+    },
+    {
+      "id": 3,
+      "name": "آب طالبی",
+      "price": "1000"
+    },
+    {
+      "id": 4,
+      "name": "طالبی بستنی",
+      "price": "1000"
+    },
+    {
+      "id": 5,
+      "name": "بستنی",
+      "price": "1000"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "نوشابه",
+      "price": "1000",
+      "image": "src/assets/images/coca.png"
+    },
+    {
+      "id": 2,
+      "name": "دلستر",
+      "price": "1000",
+      "image": "src/assets/images/soda.png"
+    },
+    {
+      "id": 3,
+      "name": "هایپ",
+      "price": "1000",
+      "image": "src/assets/images/hype.png"
+    },
+    {
+      "id": 4,
+      "name": "رانی",
+      "price": "1000",
+      "image": "src/assets/images/rani.png"
+    },
+    {
+      "id": 5,
+      "name": "آب معدنی",
+      "price": "1000",
+      "image": "src/assets/images/water.webp"
+    }
+  ]
+}
