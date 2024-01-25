@@ -33,7 +33,7 @@ const Categories = () => {
             بازی
           </IonItem>
           <IonItem routerLink={`${path}/snacks`}>
-            اسنک
+            میان وعده
           </IonItem>
           <IonItem routerLink={`${path}/cold_bars`}>
             بار سرد
