@@ -30,10 +30,10 @@ const Categories = () => {
       <IonContent>
         <IonList>
           <IonItem routerLink={`${path}/games`}>
-            بازی ها
+            بازی
           </IonItem>
           <IonItem routerLink={`${path}/snacks`}>
-            اسنک ها
+            اسنک
           </IonItem>
           <IonItem routerLink={`${path}/cold_bars`}>
             بار سرد
@@ -42,7 +42,7 @@ const Categories = () => {
             بار گرم
           </IonItem>
           <IonItem routerLink={`${path}/drinks`}>
-            نوشیدنی ها
+            نوشیدنی
           </IonItem>
         </IonList>
       </IonContent>

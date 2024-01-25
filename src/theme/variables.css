@@ -427,3 +427,11 @@ html {
 * {
   font-family: vazir, sans-serif;
 }
+
+.icon {
+  width: 30px !important;
+  height: 30px !important;
+  overflow: hidden;
+  border-radius: 50%;
+  display: inline-block;
+}

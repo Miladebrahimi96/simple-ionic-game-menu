@@ -4,6 +4,7 @@
   height: 100%;
   justify-content: space-evenly;
   align-items: center;
+  padding: 0 1.5rem;
 }
 
 .about-page-logo-container {
@@ -25,8 +26,12 @@
   justify-content: center;
 }
 
-.about-page-contact-container>a {
+.about-page-contact-container a {
   text-decoration: none;
   color: var(--ion-color-link);
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+.about-page-field {
+  width: 100%;
 }
