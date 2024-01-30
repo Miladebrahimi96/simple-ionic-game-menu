@@ -3,92 +3,128 @@
     {
       "id": 1,
       "name": "PS5 | استادیوم سانتیاگو برنابئو",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/ps5-football.webp"
     },
     {
       "id": 2,
       "name": "PS5 | استادیوم نیوکمپ ",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/ps5-football.webp"
     },
     {
       "id": 3,
       "name": "ایر هاکی",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/air-hocky.webp"
     },
     {
       "id": 4,
-      "name": "فوتبال دستی"
+      "name": "فوتبال دستی",
+      "price": "1000",
+      "image": "/assets/images/football-dasti.jpeg"
     }
   ],
   "snacks": [
     {
       "id": 1,
       "name": "اسنک",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/snack.jpeg"
     },
     {
       "id": 2,
       "name": "سیب زمینی ساده",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/simple-potato.jpeg"
     },
     {
       "id": 3,
       "name": "سیب زمینی مخصوص",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/special-potato.jpeg"
     }
   ],
   "warm_bars": [
     {
       "id": 1,
-      "name": "چای",
-      "price": "1000"
+      "name": " چای ساده",
+      "price": "1000",
+      "image": "/assets/images/simple-tea.jpeg"
+    },
+    {
+      "id": 1,
+      "name": " چای لیمویی",
+      "price": "1000",
+      "image": "/assets/images/lemon-tea.jpeg"
+    },
+    {
+      "id": 1,
+      "name": " چای گل محمدی",
+      "price": "1000",
+      "image": "/assets/images/flower-tea.jpeg"
+    },
+    {
+      "id": 1,
+      "name": " چای دارچین",
+      "price": "1000",
+      "image": "/assets/images/darchin-tea.jpeg"
     },
     {
       "id": 2,
       "name": "نسکافه",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/nescoffe.jpeg"
     },
     {
       "id": 3,
       "name": "هات چاکلت",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/hot-chocolate.jpeg"
     }
   ],
   "cold_bars": [
     {
       "id": 1,
       "name": "شیرموز",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/shirmoz.jpeg"
     },
     {
       "id": 2,
       "name": "شیک",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/shake.jpeg"
     },
     {
       "id": 3,
       "name": "آب طالبی",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/havig-juice.jpeg"
     },
     {
       "id": 4,
       "name": "طالبی بستنی",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/talebi-icecream.jpeg"
     },
     {
       "id": 5,
       "name": "بستنی",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/icecream.jpeg"
     },
     {
       "id": 5,
       "name": "آب هویج",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/havig-juice.jpeg"
     },
     {
       "id": 5,
       "name": "آب هویج بستنی",
-      "price": "1000"
+      "price": "1000",
+      "image": "/assets/images/havig-icecream.jpeg"
     }
   ],
   "drinks": [
