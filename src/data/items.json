@@ -29,57 +29,57 @@
     {
       "id": 1,
       "name": "اسنک",
-      "price": "1000",
+      "price": "70",
       "image": "/assets/images/snack.jpeg"
     },
     {
       "id": 2,
       "name": "سیب زمینی ساده",
-      "price": "1000",
+      "price": "75",
       "image": "/assets/images/simple-potato.jpeg"
     },
     {
       "id": 3,
       "name": "سیب زمینی مخصوص",
-      "price": "1000",
+      "price": "115",
       "image": "/assets/images/special-potato.jpeg"
     }
   ],
   "warm_bars": [
     {
       "id": 1,
-      "name": " چای ساده",
-      "price": "1000",
+      "name": " چای نبات",
+      "price": "25",
       "image": "/assets/images/simple-tea.jpeg"
     },
     {
       "id": 1,
-      "name": " چای لیمویی",
-      "price": "1000",
+      "name": " چای نبات لیمویی",
+      "price": "30",
       "image": "/assets/images/lemon-tea.jpeg"
     },
     {
       "id": 1,
-      "name": " چای گل محمدی",
-      "price": "1000",
+      "name": " چای نبات گل محمدی",
+      "price": "30",
       "image": "/assets/images/flower-tea.jpeg"
     },
     {
       "id": 1,
-      "name": " چای دارچین",
-      "price": "1000",
+      "name": " چای نبات دارچین",
+      "price": "30",
       "image": "/assets/images/darchin-tea.jpeg"
     },
     {
       "id": 2,
       "name": "نسکافه",
-      "price": "1000",
+      "price": "55",
       "image": "/assets/images/nescoffe.jpeg"
     },
     {
       "id": 3,
       "name": "هات چاکلت",
-      "price": "1000",
+      "price": "55",
       "image": "/assets/images/hot-chocolate.jpeg"
     }
   ],
@@ -87,31 +87,55 @@
     {
       "id": 1,
       "name": "شیرموز",
-      "price": "1000",
+      "price": "60",
       "image": "/assets/images/shirmoz.jpeg"
     },
     {
       "id": 2,
-      "name": "شیک",
-      "price": "1000",
+      "name": "شیک وانیل",
+      "price": "90",
+      "image": "/assets/images/shake.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "شیک شاه توت",
+      "price": "90",
+      "image": "/assets/images/shake.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "شیک شکلات",
+      "price": "95",
       "image": "/assets/images/shake.jpeg"
     },
     {
       "id": 3,
       "name": "آب طالبی",
-      "price": "1000",
+      "price": "ناموجود",
       "image": "/assets/images/havig-juice.jpeg"
     },
     {
       "id": 4,
       "name": "طالبی بستنی",
-      "price": "1000",
+      "price": "ناموجود",
       "image": "/assets/images/talebi-icecream.jpeg"
     },
     {
       "id": 5,
-      "name": "بستنی",
-      "price": "1000",
+      "name": "بستنی وانیل",
+      "price": "30",
+      "image": "/assets/images/icecream.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "بستنی شاه توت",
+      "price": "30",
+      "image": "/assets/images/icecream.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "بستنی شکلات",
+      "price": "35",
       "image": "/assets/images/icecream.jpeg"
     },
     {
@@ -131,31 +155,31 @@
     {
       "id": 1,
       "name": "نوشابه",
-      "price": "1000",
+      "price": "19.5",
       "image": "/assets/images/coca.png"
     },
     {
       "id": 2,
       "name": "دلستر",
-      "price": "1000",
+      "price": "24",
       "image": "/assets/images/soda.png"
     },
     {
       "id": 3,
       "name": "هایپ",
-      "price": "1000",
+      "price": "35",
       "image": "/assets/images/hype.png"
     },
     {
       "id": 4,
       "name": "رانی",
-      "price": "1000",
+      "price": "21",
       "image": "/assets/images/rani.png"
     },
     {
       "id": 5,
       "name": "آب معدنی",
-      "price": "1000",
+      "price": "20",
       "image": "/assets/images/water.webp"
     }
   ]

@@ -10,7 +10,7 @@ import {
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { homeOutline, gridOutline, informationCircleOutline } from 'ionicons/icons';
+import { homeOutline, gridOutline, informationCircleOutline, storefront } from 'ionicons/icons';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -30,7 +30,7 @@ import '@ionic/react/css/display.css';
 
 /* Theme variables */
 import './theme/variables.css';
-import { AboutPage, CategoryPage, HomePage, ProductPage } from './pages';
+import { AboutPage, CategoryPage, HomePage, ProductPage, StorePage } from './pages';
 
 setupIonicReact();
 
@@ -46,7 +46,10 @@ const App: React.FC = () => (
           <Route exact path="/categories/:id">
             <ProductPage />
           </Route>
-          <Route path="/about">
+          <Route exact path="/store">
+            <StorePage />
+          </Route>
+          <Route exact path="/about">
             <AboutPage />
           </Route>
           <Route exact path="/home">
@@ -64,6 +67,10 @@ const App: React.FC = () => (
           <IonTabButton tab="categories" href="/categories">
             <IonIcon aria-hidden="true" icon={gridOutline} />
             <IonLabel>دسته بندی ها</IonLabel>
+          </IonTabButton>
+          <IonTabButton tab="store" href="/store">
+            <IonIcon aria-hidden="true" icon={storefront} />
+            <IonLabel>فروشگاه</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>

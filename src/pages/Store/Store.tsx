@@ -6,7 +6,7 @@ import {
   IonRow
 } from '@ionic/react';
 import { Card, Header } from '../../components';
-import { items } from '../../data';
+import { store } from '../../data';
 import { ProductModel } from '../../models';
 import { useParams } from 'react-router';
 import { CategoryModel } from '../../models/categories';
@@ -15,9 +15,9 @@ export type routerParamsProps = {
   id: string | undefined;
 }
 
-const Product = () => {
+const Store = () => {
   const { id } = useParams<routerParamsProps>();
-  const categories = items as CategoryModel;
+  const categories = store as ProductModel[];
 
   return (
     <IonPage>
@@ -25,7 +25,7 @@ const Product = () => {
       <IonContent>
         <IonGrid>
           <IonRow>
-            {id && categories[id as keyof CategoryModel]?.map((d: ProductModel) =>
+            {store?.map((d: ProductModel) =>
               <IonCol
                 key={d.id}
                 sizeXs='6'
@@ -43,4 +43,4 @@ const Product = () => {
   );
 };
 
-export default Product;
+export default Store;
