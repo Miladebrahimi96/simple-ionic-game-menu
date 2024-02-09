@@ -3,132 +3,144 @@
     "id": 1,
     "name": "قمقمه BOTTLE مشکی",
     "price": "395",
-    "image": ""
+    "image": "/assets/images/bottle.jpg"
   },
   {
     "id": 2,
     "name": "قمقمه BOTTLE طوسی",
     "price": "380",
-    "image": ""
+    "image": "/assets/images/bottle.jpg"
   },
   {
     "id": 3,
     "name": "قمقمه BOTTLE زرد",
     "price": "360",
-    "image": ""
+    "image": "/assets/images/bottle.jpg"
   },
   {
     "id": 4,
     "name": "قمقمه BOTTLE فیروزه ای",
     "price": "360",
-    "image": ""
+    "image": "/assets/images/bottle.jpg"
   },
   {
     "id": 5,
     "name": "دسته بازی سونی PS5 DualSense سفید",
     "price": "استعلام",
-    "image": ""
+    "image": "/assets/images/controller.jpg"
   },
   {
     "id": 6,
     "name": "دسته بازی سونی PS5 DualSense آبی",
     "price": "استعلام",
-    "image": ""
+    "image": "/assets/images/controller.jpg"
   },
   {
     "id": 7,
     "name": "فلاسک طرح CUTE مشکی",
     "price": "360",
-    "image": ""
+    "image": "/assets/images/cute-flask.jpg"
   },
   {
     "id": 8,
     "name": "فلاسک طرح CUTE سبز",
     "price": "360",
-    "image": ""
+    "image": "/assets/images/cute-flask.jpg"
   },
   {
     "id": 9,
     "name": "فلاسک طرح CUTE آبی",
     "price": "360",
-    "image": ""
+    "image": "/assets/images/cute-flask.jpg"
   },
   {
     "id": 10,
     "name": "فلاسک طرح CUTE صورتی",
     "price": "360",
-    "image": ""
+    "image": "/assets/images/cute-flask.jpg"
   },
   {
     "id": 11,
     "name": "تراول ماگ نیم لیتری مشکی",
     "price": "330",
-    "image": ""
+    "image": "/assets/images/travel-mug.jpg"
   },
   {
     "id": 12,
     "name": "کنسول بازی سونی PS5",
     "price": "استعلام",
-    "image": ""
+    "image": "/assets/images/ps5-console.jpg"
   },
   {
     "id": 13,
     "name": "ماگ گوزن شیری",
     "price": "590",
-    "image": ""
+    "image": "/assets/images/deer-mug.jpg"
   },
   {
     "id": 14,
     "name": "ماگ گوزن قهوه‌ای",
     "price": "600",
-    "image": ""
+    "image": "/assets/images/deer-mug.jpg"
   },
   {
     "id": 15,
     "name": "ماگ گوزن طوسی",
     "price": "600",
-    "image": ""
+    "image": "/assets/images/deer-mug.jpg"
   },
   {
     "id": 16,
     "name": "ماگ گوزن بنفش",
     "price": "630",
-    "image": ""
+    "image": "/assets/images/deer-mug.jpg"
   },
   {
     "id": 17,
     "name": "فلاسک JINGBANG دودی",
     "price": "500",
-    "image": ""
+    "image": "/assets/images/jingbang.jpg"
   },
   {
     "id": 18,
     "name": "فلاسک JINGBANG سرمه‌ای",
     "price": "500",
-    "image": ""
+    "image": "/assets/images/jingbang.jpg"
   },
   {
     "id": 19,
     "name": "فلاسک JINGBANG طلایی",
     "price": "490",
-    "image": ""
+    "image": "/assets/images/jingbang.jpg"
   },
   {
     "id": 20,
     "name": "فلاسک VACCUM قرمز",
     "price": "500",
-    "image": ""
+    "image": "/assets/images/vaccum.jpg"
   },
   {
     "id": 21,
     "name": "فلاسک VACCUM مشکی",
     "price": "500",
-    "image": ""
+    "image": "/assets/images/jingbang.jpg"
   },
   {
     "id": 22,
     "name": "ماگ سیلیکونی",
     "price": "420",
-    "image": ""
+    "image": "/assets/images/silicon-mug.jpg"
+  },
+  {
+    "id": 23,
+    "name": "ماگ SEYGM بنفش",
+    "price": "420",
+    "image": "/assets/images/seygm.jpg"
+  },
+  {
+    "id": 24,
+    "name": "ماگ SEYGM سبز",
+    "price": "400",
+    "image": "/assets/images/seygm.jpg"
   }
 ]

@@ -16,17 +16,18 @@
 .card-image {
   border-radius: var(--ion-global-radius);
   overflow: hidden;
-  object-fit: cover;
+  object-fit: contain;
   height: 100%;
 }
 
 .card-title {
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: #000;
 }
 
 .card-subtitle {
   font-size: 1rem;
-  color: #000;
+  color: #b80e0e;
   text-align: center;
+  font-weight: 700;
 }

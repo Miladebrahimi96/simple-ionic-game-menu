@@ -2,26 +2,62 @@
   "games": [
     {
       "id": 1,
-      "name": "PS5 | استادیوم سانتیاگو برنابئو",
-      "price": "1000",
-      "image": "/assets/images/ps5-football.webp"
+      "name": "PS5 | استادیوم سانتیاگو برنابئو - تک دسته",
+      "price": "70",
+      "image": "/assets/images/bernabeuo.jpg"
     },
     {
       "id": 2,
-      "name": "PS5 | استادیوم نیوکمپ ",
-      "price": "1000",
-      "image": "/assets/images/ps5-football.webp"
+      "name": "PS5 | استادیوم سانتیاگو برنابئو - دو دسته",
+      "price": "80",
+      "image": "/assets/images/bernabeuo.jpg"
     },
     {
       "id": 3,
-      "name": "ایر هاکی",
-      "price": "1000",
-      "image": "/assets/images/air-hocky.webp"
+      "name": "PS5 | استادیوم سانتیاگو برنابئو - سه دسته",
+      "price": "90",
+      "image": "/assets/images/bernabeuo.jpg"
     },
     {
       "id": 4,
+      "name": "PS5 | استادیوم سانتیاگو برنابئو - چهار دسته",
+      "price": "100",
+      "image": "/assets/images/bernabeuo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "PS5 | استادیوم نیوکمپ - تک دسته",
+      "price": "90",
+      "image": "/assets/images/camp-nou.jpg"
+    },
+    {
+      "id": 6,
+      "name": "PS5 | استادیوم نیوکمپ - دو دسته",
+      "price": "100",
+      "image": "/assets/images/camp-nou.jpg"
+    },
+    {
+      "id": 7,
+      "name": "PS5 | استادیوم نیوکمپ - سه دسته",
+      "price": "110",
+      "image": "/assets/images/camp-nou.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PS5 | استادیوم نیوکمپ - چهار دسته",
+      "price": "120",
+      "image": "/assets/images/camp-nou.jpg"
+    },
+    {
+      "id": 9,
+      "name": "ایر هاکی",
+      "price": "50",
+      "image": "/assets/images/air-hocky.webp"
+    },
+    {
+      "id": 10,
       "name": "فوتبال دستی",
-      "price": "1000",
+      "price": "80",
       "image": "/assets/images/football-dasti.jpeg"
     }
   ],
@@ -73,13 +109,13 @@
     {
       "id": 2,
       "name": "نسکافه",
-      "price": "55",
+      "price": "60",
       "image": "/assets/images/nescoffe.jpeg"
     },
     {
       "id": 3,
       "name": "هات چاکلت",
-      "price": "55",
+      "price": "60",
       "image": "/assets/images/hot-chocolate.jpeg"
     }
   ],
@@ -111,13 +147,13 @@
     {
       "id": 3,
       "name": "آب طالبی",
-      "price": "ناموجود",
+      "price": "50",
       "image": "/assets/images/havig-juice.jpeg"
     },
     {
       "id": 4,
       "name": "طالبی بستنی",
-      "price": "ناموجود",
+      "price": "65",
       "image": "/assets/images/talebi-icecream.jpeg"
     },
     {
@@ -141,13 +177,13 @@
     {
       "id": 5,
       "name": "آب هویج",
-      "price": "1000",
+      "price": "40",
       "image": "/assets/images/havig-juice.jpeg"
     },
     {
       "id": 5,
       "name": "آب هویج بستنی",
-      "price": "1000",
+      "price": "55",
       "image": "/assets/images/havig-icecream.jpeg"
     }
   ],
