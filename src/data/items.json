@@ -65,7 +65,7 @@
     {
       "id": 1,
       "name": "اسنک",
-      "price": "70",
+      "price": "75",
       "image": "/assets/images/snack.jpeg"
     },
     {
@@ -77,7 +77,7 @@
     {
       "id": 3,
       "name": "سیب زمینی مخصوص",
-      "price": "115",
+      "price": "125",
       "image": "/assets/images/special-potato.jpeg"
     }
   ],
@@ -130,13 +130,13 @@
       "id": 2,
       "name": "شیک وانیل",
       "price": "90",
-      "image": "/assets/images/shake.jpeg"
+      "image": "/assets/images/vanil-shake.jpeg"
     },
     {
       "id": 2,
       "name": "شیک شاه توت",
       "price": "90",
-      "image": "/assets/images/shake.jpeg"
+      "image": "/assets/images/strawberry-shake.jpeg"
     },
     {
       "id": 2,
@@ -148,7 +148,7 @@
       "id": 3,
       "name": "آب طالبی",
       "price": "50",
-      "image": "/assets/images/havig-juice.jpeg"
+      "image": "/assets/images/talebi-juice.jpeg"
     },
     {
       "id": 4,
@@ -172,7 +172,7 @@
       "id": 5,
       "name": "بستنی شکلات",
       "price": "35",
-      "image": "/assets/images/icecream.jpeg"
+      "image": "/assets/images/scoped-icecream.jpeg"
     },
     {
       "id": 5,

@@ -1,0 +1,15 @@
+.category-page {
+  background: url("/assets/images/gold-logo-transparent.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 100%;
+}
+
+ion-list {
+  background: transparent !important;
+}
+
+ion-item {
+  --background: transparent;
+}
