@@ -130,13 +130,13 @@
       "id": 2,
       "name": "شیک وانیل",
       "price": "90",
-      "image": "/assets/images/vanil-shake.jpeg"
+      "image": "/assets/images/vanil-shake.jpg"
     },
     {
       "id": 2,
       "name": "شیک شاه توت",
       "price": "90",
-      "image": "/assets/images/strawberry-shake.jpeg"
+      "image": "/assets/images/strawberry-shake.jpg"
     },
     {
       "id": 2,
@@ -172,7 +172,7 @@
       "id": 5,
       "name": "بستنی شکلات",
       "price": "35",
-      "image": "/assets/images/scoped-icecream.jpeg"
+      "image": "/assets/images/scoped-icecream.jpg"
     },
     {
       "id": 5,
